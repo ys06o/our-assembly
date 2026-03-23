@@ -20,4 +20,5 @@ public class BaseTime {
 
     @LastModifiedDate //엔티티 수정날짜/시간 주입
     private LocalDateTime updateDate;
+
 }
